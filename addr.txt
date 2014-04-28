@@ -1,0 +1,13 @@
+﻿tcp模式是具备可优化改进的，包括从tcp网络通讯层进行优化，例如： 
+http://www.appexnetworks.com.cn/technology/zetatcp.html 
+http://tcp.ip.cn/ 
+http://www.serverspeeder.com/ 
+这些tcp单边加速技术 
+同时在应用层，也可以进行流媒体数据传输的优化，包括流媒体缓存优化，编解码优化，自动码率适应。
+
+
+Linux内核修改TCP/IP调优参数： 
+http://www.cnblogs.com/nioterry/archive/2012/10/20/2732195.html 
+
+linux TCP拥塞控制算法调整： 
+http://blog.csdn.net/wodatoucai/article/details/17525539 
